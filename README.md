@@ -82,12 +82,12 @@ I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-PatelCybersecurity&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-GBCy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-GBC&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-PatelCybersecurity&theme=github-dark&hide_border=true" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-GBC&theme=github-dark&hide_border=true" width="55%"/>
 </p>
 
 ---
@@ -95,8 +95,8 @@ I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with 
 ## 📬 Contact
 
 - 📧 **Email:** aayushnadiad06@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/aayushpatel-29b9b0315](https://www.linkedin.com/in/aayush-patel-29b9b0315/)
-- 🐱 **GitHub:** [github.com/Aayush-PatelCybersecurity](https://github.com/Aayush-PatelCybersecurity)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/aayush-patel-29b9b0315/](https://www.linkedin.com/in/aayush-patel-29b9b0315/)
+- 🐱 **GitHub:** [github.com/Aayush-PatelCybersecurity](https://github.com/Aayush-GBC)
 
 
 ---
