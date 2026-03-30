@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayushpatel-29b9b0315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aayush-patel-29b9b0315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aayushnadiad06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with hands-on experience in penetration testing, network security, and vulnerability assessment. I enjoy breaking things responsibly — and documenting exactly how to fix them.
+I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with a bit of experience in penetration testing, network security, and vulnerability assessment. I enjoy breaking things responsibly — and documenting exactly how to fix them.
 
 - 🔭 Currently building: **Autonomous Red Team Framework**
 - 🌱 Learning: Advanced threat detection, SIEM, and red team automation
@@ -61,9 +61,9 @@ I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔴 [Autonomous Red Team Framework](https://github.com/Aayush-PatelCybersecurity/autonomous-redteam-framework) | Modular automation framework integrating recon, scanning, and structured reporting into a single pipeline | Python · Bash · Kali Linux |
-| 🔐 [OpenVPN PKI Lab](https://github.com/Aayush-PatelCybersecurity) | 3-VM OpenVPN environment with full PKI: CA, certificates, CRL, and TLS tunnel verification | OpenVPN · VMware · Kali Linux |
-| 🌐 [PHP Web App Security Hardening](https://github.com/Aayush-PatelCybersecurity) | Identified and remediated XSS, clickjacking, and missing headers on a live PHP site using Nikto, Nuclei & XSStrike | PHP · Nikto · Nuclei · Wapiti |
+| 🔴 [Autonomous Red Team Framework](https://github.com/Aayush-GBC/autonomous-redteam-framework) | Modular automation framework integrating recon, scanning, and structured reporting into a single pipeline | Python · Bash · Kali Linux |
+| 🔐 [OpenVPN PKI Lab] | 3-VM OpenVPN environment with full PKI: CA, certificates, CRL, and TLS tunnel verification | OpenVPN · VMware · Kali Linux |
+| 🌐 [PHP Web App Security Hardening] | Identified and remediated XSS, clickjacking, and missing headers on a live PHP site using Nikto, Nuclei & XSStrike | PHP · Nikto · Nuclei · Wapiti |
 
 ---
 
@@ -95,10 +95,9 @@ I'm a cybersecurity student at **George Brown College** (Ajax/Toronto, ON) with 
 ## 📬 Contact
 
 - 📧 **Email:** aayushnadiad06@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/aayushpatel-29b9b0315](https://www.linkedin.com/in/aayushpatel-29b9b0315)
+- 💼 **LinkedIn:** [linkedin.com/in/aayushpatel-29b9b0315](https://www.linkedin.com/in/aayush-patel-29b9b0315/)
 - 🐱 **GitHub:** [github.com/Aayush-PatelCybersecurity](https://github.com/Aayush-PatelCybersecurity)
-- 🟥 **TryHackMe:** [tryhackme.com](https://tryhackme.com/)
-- 🟩 **HackTheBox:** [hackthebox.com](https://www.hackthebox.com/)
+
 
 ---
 
